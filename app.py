@@ -12,7 +12,7 @@ import streamlit as st
 # Kontributor atau Anggota Tim
 kontributor = [
     "Annalia Alfia Rahma (13012131981)",
-    "Tsania Millatina Aghnia Fariha (1301210051)",
+    "Tsania Millatina Aghnia F (1301210051)",
     "Putri Ayu Sedyo Mukti (1301213453)",
     "Kartina Halawa (1301210245)"
 ]
