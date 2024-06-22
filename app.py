@@ -95,9 +95,3 @@ if simulate:
 
     st.write(f"R² score: {r2}")
     st.write(f"Mean Squared Error (MSE): {mse}")
-tambahkan
-1. Annalia Alfia Rahma (13012131981)
-2. Tsania Millatina Aghnia Fariha (1301210051)
-3. Putri Ayu Sedyo Mukti (1301213453)
-4. Kartina Halawa (1301210245)
-
